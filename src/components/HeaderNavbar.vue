@@ -28,7 +28,7 @@
         justify-content: space-between;
         align-items: center;
         padding: 0.5rem 1rem;
-        background-color: rgb(215, 245, 248);
+        background-color: rgb(175, 246, 175);
     }
 
     .ivy_nav_items{
